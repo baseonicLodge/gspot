@@ -1,0 +1,2 @@
+# gspot
+GSPOT Assets
