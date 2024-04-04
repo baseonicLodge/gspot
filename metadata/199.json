@@ -1,0 +1,30 @@
+{
+  "dna": "5bd164bfff2b434543cdc89e57494786",
+  "name": "Baseonic Lodge #199",
+  "description": "Just a bunch of frens, engaging in on-chain activities on the blockchain.",
+  "image": "https://raw.githubusercontent.com/baseonicLodge/gspot/main/img/199.png",
+  "date": 1711972899063,
+  "attributes": [
+    {
+      "trait_type": "wojak",
+      "value": "doomer"
+    },
+    {
+      "trait_type": "robe",
+      "value": "brown"
+    },
+    {
+      "trait_type": "sigils",
+      "value": "point"
+    },
+    {
+      "trait_type": "bling",
+      "value": "33"
+    },
+    {
+      "trait_type": "drip",
+      "value": "engineer_glasses"
+    }
+  ],
+  "external_url": "https://baseoniclodge.org"
+}
