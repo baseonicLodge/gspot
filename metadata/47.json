@@ -1,29 +1,25 @@
 {
-  "dna": "568c1b82de184402873fe15374c4fe77",
+  "dna": "8ec988c35301acde5993093d02ff8cf2",
   "name": "Mason #47",
   "description": "Just a bunch of frens, engaging in on-chain activities on the blockchain.",
   "image": "https://raw.githubusercontent.com/baseonicLodge/gspot/main/img/47.png",
-  "date": 1711972888431,
+  "date": 1712780520732,
   "attributes": [
     {
-      "trait_type": "wojak",
-      "value": "happy"
+      "trait_type": "aura",
+      "value": "purple"
     },
     {
-      "trait_type": "robe",
-      "value": "brown"
+      "trait_type": "base",
+      "value": "forbidden_fruit"
     },
     {
-      "trait_type": "sigils",
-      "value": "7"
+      "trait_type": "face",
+      "value": "demonic"
     },
     {
-      "trait_type": "bling",
+      "trait_type": "sigil",
       "value": "eye"
-    },
-    {
-      "trait_type": "drip",
-      "value": "soyjack_glasses"
     }
   ],
   "external_url": "https://baseoniclodge.org"

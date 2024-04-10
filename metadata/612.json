@@ -1,0 +1,26 @@
+{
+  "dna": "a9a638e60d3dc34bc1f10090de609d2f",
+  "name": "Mason #612",
+  "description": "Just a bunch of frens, engaging in on-chain activities on the blockchain.",
+  "image": "https://raw.githubusercontent.com/baseonicLodge/gspot/main/img/612.png",
+  "date": 1712780532155,
+  "attributes": [
+    {
+      "trait_type": "aura",
+      "value": "blue"
+    },
+    {
+      "trait_type": "base",
+      "value": "pumped"
+    },
+    {
+      "trait_type": "face",
+      "value": "tongue_out"
+    },
+    {
+      "trait_type": "sigil",
+      "value": "blazing_star"
+    }
+  ],
+  "external_url": "https://baseoniclodge.org"
+}

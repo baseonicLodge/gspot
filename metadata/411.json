@@ -1,0 +1,26 @@
+{
+  "dna": "0c8506b15748d83f3012d9f68e0fe2cf",
+  "name": "Mason #411",
+  "description": "Just a bunch of frens, engaging in on-chain activities on the blockchain.",
+  "image": "https://raw.githubusercontent.com/baseonicLodge/gspot/main/img/411.png",
+  "date": 1712780527951,
+  "attributes": [
+    {
+      "trait_type": "aura",
+      "value": "red"
+    },
+    {
+      "trait_type": "base",
+      "value": "light_bearer"
+    },
+    {
+      "trait_type": "face",
+      "value": "captitalist"
+    },
+    {
+      "trait_type": "sigil",
+      "value": "square_compass"
+    }
+  ],
+  "external_url": "https://baseoniclodge.org"
+}

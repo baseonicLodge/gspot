@@ -1,0 +1,26 @@
+{
+  "dna": "8abc9f03ea6cb72cb2b7ecdf0c999c5c",
+  "name": "Mason #498",
+  "description": "Just a bunch of frens, engaging in on-chain activities on the blockchain.",
+  "image": "https://raw.githubusercontent.com/baseonicLodge/gspot/main/img/498.png",
+  "date": 1712780529757,
+  "attributes": [
+    {
+      "trait_type": "aura",
+      "value": "orange"
+    },
+    {
+      "trait_type": "base",
+      "value": "gem_holder"
+    },
+    {
+      "trait_type": "face",
+      "value": "primate"
+    },
+    {
+      "trait_type": "sigil",
+      "value": "g"
+    }
+  ],
+  "external_url": "https://baseoniclodge.org"
+}

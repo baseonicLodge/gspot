@@ -1,29 +1,25 @@
 {
-  "dna": "aea9d20375a4adf0501f1451f2caec56",
+  "dna": "e5efcb86ef7e5dc0867933455c4b3771",
   "name": "Mason #20",
   "description": "Just a bunch of frens, engaging in on-chain activities on the blockchain.",
   "image": "https://raw.githubusercontent.com/baseonicLodge/gspot/main/img/20.png",
-  "date": 1711972886629,
+  "date": 1712780520228,
   "attributes": [
     {
-      "trait_type": "wojak",
-      "value": "confused"
+      "trait_type": "aura",
+      "value": "purple"
     },
     {
-      "trait_type": "robe",
-      "value": "brown"
+      "trait_type": "base",
+      "value": "grim_reaper"
     },
     {
-      "trait_type": "sigils",
-      "value": "7"
+      "trait_type": "face",
+      "value": "scream"
     },
     {
-      "trait_type": "bling",
-      "value": "cross"
-    },
-    {
-      "trait_type": "drip",
-      "value": "sunglasses"
+      "trait_type": "sigil",
+      "value": "square_compass"
     }
   ],
   "external_url": "https://baseoniclodge.org"
